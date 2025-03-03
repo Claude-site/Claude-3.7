@@ -11,15 +11,14 @@ Claude 是由 Anthropic 开发的一系列高性能且智能的 AI 模型。虽�
 官网地址：[https://claude.ai](https://claude.ai)
 
 由于 Claude 官网禁止国内访问，所以目前想要访问 Claude 还是非常困难的，而且 Claude 的管控比 ChatGPT 官网还要严格，所以哪怕你有办法可以访问到 Claude 官网，也会随时被封禁账号，让你血本无归。
-![image](https://github.com/user-attachments/assets/3c50d4f0-9aac-4f28-b359-23cbdd67b8f2)
-
+<img src="1.jpg" />
 
 ## 三、国内如何使用 Claude？
 国内想要访问 Claude 其实可以访问国内的镜像网站，不仅可以支持最新的 **Claude 3.7**，还支持很多大模型，包括 ChatGPT、DeepSeek、Grok、Gemini 等等。
 
 Claude 镜像网站地址：[https://chat.gptcat.net/](https://chat.gptcat.net/)
 
-![image](https://github.com/user-attachments/assets/119c6953-d2be-415f-8401-4cece5756b16)
+<img src="2.jpg" />
 
 
 ## 四、使用 Claude 可以做什么？
